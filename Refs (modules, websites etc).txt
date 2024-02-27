@@ -1,0 +1,8 @@
+https://towardsdatascience.com/rubiks-cube-solver-96fa6c56fbe4 - Algorithm A*, Array Layout
+https://coderslegacy.com/python/problem-solving/improve-tkinter-resolution/ - updating resolution
+https://www.youtube.com/watch?v=OR2_zQN_Gbk&t=414s - Using oop to build a model
+
+
+Ursina Module - https://www.ursinaengine.org/
+Cube Solver Module - https://github.com/tcbegley/cube-solver
+Numpy Module https://numpy.org/
