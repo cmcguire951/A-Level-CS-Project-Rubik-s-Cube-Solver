@@ -3,6 +3,6 @@ https://coderslegacy.com/python/problem-solving/improve-tkinter-resolution/ - up
 https://www.youtube.com/watch?v=OR2_zQN_Gbk&t=414s - Using oop to build a model
 
 
-Ursina Module - https://www.ursinaengine.org/
+Ursina Module - https://pypi.org/project/ursina/3.2.2/
 Cube Solver Module - https://github.com/tcbegley/cube-solver
 Numpy Module https://numpy.org/
