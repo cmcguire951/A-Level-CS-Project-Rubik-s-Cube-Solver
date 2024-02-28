@@ -1,4 +1,4 @@
-Pls download and install the 3 modules from the Refs file (Urisina, Numpy, and a Solving alg)
+Pls download and install the 3 modules from the Refs file (Urisina, Numpy, and a Solving alg) or run the setup file from the build folder
 
 Unzip the UNZIP file and move all the folders out into the main folder with all the other python files (this is the models and textures)
 
